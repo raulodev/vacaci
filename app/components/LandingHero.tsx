@@ -52,7 +52,7 @@ export const LandingHero = ({
   };
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 items-center justify-center h-screen selection:text-blue-500">
+    <div className="grid grid-cols-1 md:grid-cols-2 items-center justify-center h-screen selection:text-orange-500">
       <div className="flex flex-col items-center justify-center p-20 gap-4">
         <h1 className="text-4xl font-bold">{title}</h1>
         <h2>{subTitle}</h2>
